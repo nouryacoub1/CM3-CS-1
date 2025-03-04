@@ -1,5 +1,5 @@
 # Task Manager CLI 📋
-### Video Demo: [Click Here](<https://youtu.be/p_7_rblN5Jg?si=vRtDYWxuKvl-xzzu>)
+### Video Demo: [Click Here](https://youtu.be/p_7_rblN5Jg?si=vRtDYWxuKvl-xzzu)
  ## **Authors: Nour Yacoub & Abi Ntumba**
  ## **GitHub username: @nouryacoub1**
  ## **Hult Section: BOS5**
